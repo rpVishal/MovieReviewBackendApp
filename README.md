@@ -65,8 +65,8 @@ This is the backend service for the Movie Review Application, built using Java a
 ```
 ## Fields
 
-- **reviewBody** (Required): The text content of the review.
-- **imdbId** (Optional): The unique identifier of the movie (e.g., IMDb ID). This field may be replaced with a different identifier depending on your specific implementation.
+- **reviewBody** : The text content of the review.
+- **imdbId** : The unique identifier of the movie (e.g., IMDb ID). This field may be replaced with a different identifier depending on your specific implementation.
 
 ---
 
