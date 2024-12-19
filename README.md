@@ -62,7 +62,7 @@ This is the backend service for the Movie Review Application, built using Java a
   "reviewBody": "This is a review.", 
   "imdbId": "movie123" 
 }
-
+```
 ## Fields
 
 - **reviewBody** (Required): The text content of the review.
